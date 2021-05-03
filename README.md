@@ -1,4 +1,9 @@
-### Hi there, I'm Hager! 👋    ![visitors](https://visitor-badge.glitch.me/badge?page_id=${hagerosama}.${364040570})
+## Hi there, I'm Hager! 👋    ![visitors](https://visitor-badge.glitch.me/badge?page_id=${hagerosama}.${364040570})
+
+-   Cuurently working on a personal android app.
+-   Learning about AI using Azure tools.
+
+
 
 ### Connect With me:
 
@@ -28,17 +33,4 @@
 ![Hager's GitHub stats](https://github-readme-stats.vercel.app/api?username=hagerosama&count_private=true&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagerosama&layout=compact&theme=radical)](https://github.com/hagerosama?tab=repositories)
-<!--
-**hagerosama/hagerosama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a personal android app.
- - 🌱 I’m currently learning AI using Azure tools.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
