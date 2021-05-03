@@ -1,20 +1,12 @@
-### Hi there 👋 I'm Hager!
-
+### Hi there, I'm Hager! 👋
 ## Glad to see you around! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${hagerosama}.${364040570})
 
-<!-- Actual text -->
+### Connect With me:
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+[<img align="left" alt="a7medayman6 | email" width="22px" src="https://github.com/a7medayman6/a7medayman6/blob/master/Images/gmail.png" />](mailto:hagerosama47@gmail.com)
+[<img align="left" alt="a7medayman6 | Linkedin" width="22px" src="https://github.com/a7medayman6/a7medayman6/blob/master/Images/linkedin.png" />](https://www.linkedin.com/in/hager-osama-7b37a0193/)
+[<img align="left" alt="a7medayman6 | Twitter" width="22px" src="https://github.com/a7medayman6/a7medayman6/blob/master/Images/twitter.png"/>](https://twitter.com/hagerosama47)
 
-<!-- Icons -->
-
-[1.2]: https://www.flaticon.com/free-icon/twitter_124021
-[2.2]: https://www.flaticon.com/free-icon/linkedin_174857
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/hagerosama47
-[2]: https://www.linkedin.com/in/hager-osama-7b37a0193/
  
 ![Hager's GitHub stats](https://github-readme-stats.vercel.app/api?username=hagerosama&count_private=true&show_icons=true&theme=radical)
 <!--
