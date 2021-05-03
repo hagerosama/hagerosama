@@ -20,7 +20,7 @@
   - [PacMan Clone](https://github.com/hagerosama/PacMan-with-impossible-mode)
 
 ### Android Apps
-  - [MoviesBook](https://github.com/hagerosama/moviesbook).
+  - [MoviesBook](https://github.com/hagerosama/moviesbook)
   
 ### Java Projects
   - [Seganography game](https://github.com/hagerosama/SeganographyGame)
@@ -30,7 +30,7 @@
   
  <br />
  
-![Hager's GitHub stats](https://github-readme-stats.vercel.app/api?username=hagerosama&count_private=true&show_icons=true&theme=radical)
+![Hager's GitHub stats](https://github-readme-stats.vercel.app/api?username=hagerosama&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagerosama&layout=compact&theme=radical)](https://github.com/hagerosama?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagerosama&layout=compact&theme=tokyonight)](https://github.com/hagerosama?tab=repositories)
 
