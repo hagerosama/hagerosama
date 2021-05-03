@@ -1,11 +1,10 @@
-### Hi there, I'm Hager! 👋
-## Glad to see you around! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${hagerosama}.${364040570})
+### Hi there, I'm Hager! 👋    ![visitors](https://visitor-badge.glitch.me/badge?page_id=${hagerosama}.${364040570})
 
 ### Connect With me:
 
-[<img  alt="hagerosama | email" width="22px" src="https://github.com/a7medayman6/a7medayman6/blob/master/Images/gmail.png" />](mailto:hagerosama47@gmail.com)
-[<img  alt="hagerosama | Linkedin" width="22px" src="https://github.com/a7medayman6/a7medayman6/blob/master/Images/linkedin.png" />](https://www.linkedin.com/in/hager-osama-7b37a0193/)
-[<img alt="hagerosama | Twitter" width="22px" src="https://github.com/a7medayman6/a7medayman6/blob/master/Images/twitter.png"/>](https://twitter.com/hagerosama47)
+[<img align="left" alt="hagerosama | email" width="22px" src="https://github.com/a7medayman6/a7medayman6/blob/master/Images/gmail.png" />](mailto:hagerosama47@gmail.com)
+[<img align="left" alt="hagerosama | Linkedin" width="22px" src="https://github.com/a7medayman6/a7medayman6/blob/master/Images/linkedin.png" />](https://www.linkedin.com/in/hager-osama-7b37a0193/)
+[<img align="left" alt="hagerosama | Twitter" width="22px" src="https://github.com/a7medayman6/a7medayman6/blob/master/Images/twitter.png"/>](https://twitter.com/hagerosama47)
 
  
  
