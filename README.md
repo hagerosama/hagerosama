@@ -3,10 +3,12 @@
 
 ### Connect With me:
 
-[<img align="left" alt="a7medayman6 | email" width="22px" src="https://github.com/a7medayman6/a7medayman6/blob/master/Images/gmail.png" />](mailto:hagerosama47@gmail.com)
-[<img align="left" alt="a7medayman6 | Linkedin" width="22px" src="https://github.com/a7medayman6/a7medayman6/blob/master/Images/linkedin.png" />](https://www.linkedin.com/in/hager-osama-7b37a0193/)
-[<img align="left" alt="a7medayman6 | Twitter" width="22px" src="https://github.com/a7medayman6/a7medayman6/blob/master/Images/twitter.png"/>](https://twitter.com/hagerosama47)
+[<img  alt="hagerosama | email" width="22px" src="https://github.com/a7medayman6/a7medayman6/blob/master/Images/gmail.png" />](mailto:hagerosama47@gmail.com)
+[<img  alt="hagerosama | Linkedin" width="22px" src="https://github.com/a7medayman6/a7medayman6/blob/master/Images/linkedin.png" />](https://www.linkedin.com/in/hager-osama-7b37a0193/)
+[<img alt="hagerosama | Twitter" width="22px" src="https://github.com/a7medayman6/a7medayman6/blob/master/Images/twitter.png"/>](https://twitter.com/hagerosama47)
 
+ 
+ 
  
 ![Hager's GitHub stats](https://github-readme-stats.vercel.app/api?username=hagerosama&count_private=true&show_icons=true&theme=radical)
 <!--
