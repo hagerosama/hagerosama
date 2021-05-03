@@ -1,11 +1,11 @@
-## Hi there, I'm Hager! 👋    ![visitors](https://visitor-badge.glitch.me/badge?page_id=${hagerosama}.${364040570})
+## Hi there, I'm Hager!     ![Visitors](https://visitor-badge.glitch.me/badge?page_id=${hagerosama}.${364040570})
 
 -   Cuurently working on a personal android app.
 -   Learning about AI using Azure tools.
 
 
 
-### Connect With me:
+### Connect with me:
 
 [<img align="left" alt="hagerosama | email" width="22px" src="https://github.com/a7medayman6/a7medayman6/blob/master/Images/gmail.png" />](mailto:hagerosama47@gmail.com)
 [<img align="left" alt="hagerosama | Linkedin" width="22px" src="https://github.com/a7medayman6/a7medayman6/blob/master/Images/linkedin.png" />](https://www.linkedin.com/in/hager-osama-7b37a0193/)
