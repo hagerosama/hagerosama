@@ -1,7 +1,6 @@
 ## Hi there, I'm Hager!     <!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=${hagerosama}.${364040570})-->
 
--   Currently working on a personal android app.
--   Learning about AI.
+
 
 
 
